@@ -3,7 +3,7 @@ server:
     
 spring:
    application:
-    name: microservicecloud-cleint-dev3355
+    name: microservicecloud-lable-dev-dev3355
     
 eureka:
   client: #客户端注册进eureka服务列表内
