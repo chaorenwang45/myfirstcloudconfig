@@ -20,6 +20,6 @@ info:
   build.artifactId: ${project.artifactId}
   build.version: ${project.version}
 config:
-  info: 我是master分支的dev配置文件
+  info: 我是master分支的dev配置文件修改1次
   
 
