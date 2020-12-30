@@ -1,6 +1,4 @@
-server:
-  port: 3355
-    
+   
 spring:
    application:
     name: microservicecloud-cleint-dev3355
