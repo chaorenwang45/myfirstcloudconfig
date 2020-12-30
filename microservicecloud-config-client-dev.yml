@@ -19,4 +19,6 @@ info:
   company.name: www.atguigu.com
   build.artifactId: ${project.artifactId}
   build.version: ${project.version}
+config:
+  info: 我是dev分支的dev配置文件
 
